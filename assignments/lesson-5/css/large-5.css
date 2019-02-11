@@ -1,0 +1,26 @@
+ul {list-style: none;
+margin: 0;
+padding: 0;
+background-color: #0dd9d9;}
+
+li { float: left;}
+
+li a {display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none; }
+
+li a:hover {background-color:  #0dd9d9; }
+
+.active {background-color: lightseagreen; }
+
+header {background-color: #42f4f4;  }
+
+.motto {color: blue; }
+
+.nav {font-family: Lucida, Helvetica, sans-serif; }
+
+.art {font-family: Georgia, 'Times New Roman', Times, serif; }
+
+.sum {font-family: 'Arial Narrow Bold', sans-serif; }
