@@ -1,0 +1,15 @@
+header {background-color: #42f4f4;  }
+
+.motto {color: blue; }
+
+.nav {margin: 0 auto;	max-width: 760px; background-color: #0dd9d9;
+    font-family: Lucida, Helvetica, sans-serif; }
+
+.art {font-family: Georgia, 'Times New Roman', Times, serif; }
+
+.sum {font-family: 'Arial Narrow Bold', sans-serif; }
+
+.nav li:first-child { display: block;}
+  .nav li { display: none;}
+  .nav a {	display: block;	color: #fff; padding: .75rem; background-color: #0dd9d9; text-align: center;	text-decoration: none;}
+  .nav a:hover {	color: #000; background-color: #fff; font-weight: 700;	}
